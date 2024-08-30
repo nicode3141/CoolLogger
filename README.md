@@ -1,2 +1,2 @@
 # CoolLogger
-Simple Keylogger with some ✨__spice__✨
+Simple Keylogger with some ✨spice✨
